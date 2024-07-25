@@ -1,0 +1,1 @@
+Open to contributions! I'm still new to arkworks, so minimal implementation for the article. 
